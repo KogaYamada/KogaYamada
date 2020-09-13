@@ -1,6 +1,9 @@
 # Hi there！<img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = "30px">
-<img src="https://github-readme-stats.vercel.app/api?username=KogaYamada&show_icons=true&theme=radical" />
-<img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KogaYamada&theme=radical" />
+<div style="display: flex;">
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KogaYamada&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KogaYamada&show_icons=true&theme=radical" />
+</div>
+
 
 <!--
 **KogaYamada/KogaYamada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
